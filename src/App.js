@@ -1,9 +1,9 @@
 import React from 'react'
 import Home from './components/Home'
-import About from './components/About'
-import Education from './components/Education'
-import Skills from './components/Skills'
-import Projects from './components/Projects'
+import About from './components/About/About'
+import Education from './components/Education/Education'
+import Skills from './components/Skills/Skills'
+import Projects from './components/Projects/Projects'
 import Contact from './components/Contact'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
